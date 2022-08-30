@@ -26,7 +26,5 @@ public class CSender implements ISend<Queue> {
                 list.enqueue(formatted + ": " + message + "Send");
             }
         }
-
     }
-
 }
